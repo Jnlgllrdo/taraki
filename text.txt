@@ -1,0 +1,6 @@
+tarakiorder/
+├── index.html        <-- MUST be here and named exactly this
+├── css/
+│   └── style.css
+└── js/
+    └── script.js
